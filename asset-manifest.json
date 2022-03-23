@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/FCC-Build-a-Random-Quote-Machine/static/css/main.e462eea0.css",
-    "main.js": "/FCC-Build-a-Random-Quote-Machine/static/js/main.847b8094.js",
-    "static/js/787.28cb0dcd.chunk.js": "/FCC-Build-a-Random-Quote-Machine/static/js/787.28cb0dcd.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/FCC-Build-a-Random-Quote-Machine/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fa-solid-900.ttf": "/FCC-Build-a-Random-Quote-Machine/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
-    "static/media/fa-brands-400.ttf": "/FCC-Build-a-Random-Quote-Machine/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
-    "static/media/fontawesome-webfont.eot": "/FCC-Build-a-Random-Quote-Machine/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/FCC-Build-a-Random-Quote-Machine/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fa-solid-900.woff2": "/FCC-Build-a-Random-Quote-Machine/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
-    "static/media/fa-brands-400.woff2": "/FCC-Build-a-Random-Quote-Machine/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/FCC-Build-a-Random-Quote-Machine/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/FCC-Build-a-Random-Quote-Machine/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/fa-regular-400.ttf": "/FCC-Build-a-Random-Quote-Machine/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
-    "static/media/fa-regular-400.woff2": "/FCC-Build-a-Random-Quote-Machine/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
-    "static/media/fa-v4compatibility.ttf": "/FCC-Build-a-Random-Quote-Machine/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
-    "static/media/fa-v4compatibility.woff2": "/FCC-Build-a-Random-Quote-Machine/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
-    "index.html": "/FCC-Build-a-Random-Quote-Machine/index.html",
-    "main.e462eea0.css.map": "/FCC-Build-a-Random-Quote-Machine/static/css/main.e462eea0.css.map",
-    "main.847b8094.js.map": "/FCC-Build-a-Random-Quote-Machine/static/js/main.847b8094.js.map",
-    "787.28cb0dcd.chunk.js.map": "/FCC-Build-a-Random-Quote-Machine/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "./static/css/main.4856ea20.css",
+    "main.js": "./static/js/main.15ab97b9.js",
+    "static/js/787.28cb0dcd.chunk.js": "./static/js/787.28cb0dcd.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "./static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fontawesome-webfont.eot": "./static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "./static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "./static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "./static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "./index.html",
+    "main.4856ea20.css.map": "./static/css/main.4856ea20.css.map",
+    "main.15ab97b9.js.map": "./static/js/main.15ab97b9.js.map",
+    "787.28cb0dcd.chunk.js.map": "./static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e462eea0.css",
-    "static/js/main.847b8094.js"
+    "static/css/main.4856ea20.css",
+    "static/js/main.15ab97b9.js"
   ]
 }
